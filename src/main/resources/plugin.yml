@@ -1,0 +1,9 @@
+name: DeathMarkers
+version: @version@
+main: com.github.unassignedxd.deathmarkers.DeathMarkers
+api-version: 1.13
+authors: [unassignedxd]
+description: This plugin allows for players to easily retreive items from their death by supplying the coords of where they died.
+commands:
+    deathmarker:
+        description: Gives the player their last known death location.
